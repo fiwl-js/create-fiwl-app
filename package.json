@@ -14,7 +14,7 @@
     "url": "git+https://github.com/fiwl-js/create-fiwl-app.git"
   },
   "keywords": [],
-  "author": "FIWL-JS",
+  "author": "fiwl-js <info.fiwljs@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "commander": "^6.2.0",
