@@ -9,9 +9,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiwl-js/create-fiwl-app.git"
+  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "FIWL-JS",
+  "license": "MIT",
   "dependencies": {
     "commander": "^6.2.0",
     "prompts": "^2.4.0"
