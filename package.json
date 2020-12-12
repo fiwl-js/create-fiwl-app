@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "create-abell-app": "bin/create-abell-app.js"
+    "create-fiwl-app": "bin/create-fiwl-app.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
