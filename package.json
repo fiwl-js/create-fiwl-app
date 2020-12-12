@@ -2,7 +2,7 @@
   "name": "create-fiwl-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "bin/create-abell-app.js",
   "bin": {
     "create-fiwl-app": "bin/create-fiwl-app.js"
   },
