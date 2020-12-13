@@ -1,13 +1,14 @@
-# Create-fiwl-app
+# create-fiwl-app
 
 Boilerplate code generator to get started with FIWL easily.
 
 ## Usage
 
-```
-npm i create-fiwl-app -g
-npx create-fiwl-app hello-world
-cd hello-world
+To generate the starter boilerplate for your FIWL app, use this simple NPX command:
+
+```bash
+npx create-fiwl-app myapp
+cd myapp
 ```
 
 ## Command Info
