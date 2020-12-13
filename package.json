@@ -2,7 +2,7 @@
   "name": "create-fiwl-app",
   "version": "1.0.0",
   "description": "Boilerplate generator for fiwl.js",
-  "main": "bin/create-abell-app.js",
+  "main": "bin/create-fiwl-app.js",
   "bin": {
     "create-fiwl-app": "bin/create-fiwl-app.js"
   },
